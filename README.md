@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Archika Kasliwal</h1>
-- 🌱 I’m currently learning **MERN**
 
-- 👯 I’m looking to collaborate on **MERN projects**
-
-- 💬 Ask me about **ReactJs**
-
-- 📫 How to reach me **archikakasliwal31@gmail.com**
+ 🌱 I’m currently learning **MERN Stack**
+ 
+ 👯 I’m looking to collaborate on **MERN projects**
+ 
+ 💬 Ask me about **ReactJs**
+ 
+ 📫 How to reach me **archikakasliwal31@gmail.com**
 
 
 
